@@ -1,10 +1,11 @@
 title: Chris Kim
 logo: "/images/logo.png?raw=true"
 description: >
-  <p style='font-size:12px'>MS Analytics candidate @ Georgia Institute of Technology</p><br>
+  <p style='font-size:12px'>
+  MS Analytics candidate @ Georgia Institute of Technology<br>
   BA Chemistry with a minor in Mathematics @ Manhattan College<br>
   AS Chemistry @ Bergen Community College<br>
-
+  </p>
   <a href="https://www.linkedin.com/in/christopher-daehyun-kim/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
