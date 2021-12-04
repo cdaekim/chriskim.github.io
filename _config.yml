@@ -6,6 +6,14 @@ description: >
   BA Chemistry with a minor in Mathematics @ Manhattan College<br>
   AS Chemistry @ Bergen Community College<br>
   </p>
+  
+  Analytic Toolbag
+  <p style='font-size:12px'>
+  Supervised Learning: Logistic Regression, Linear Regression, LASSO, Ridge, Decision Trees, Ensemble Methods (AdaBoost, Random Forest, OBB), Neural Networks, Naive Bayes, k-NN<br>
+  Unsupervised Learning: Clustering (K-means, Spectral, ISOMAP, GMM-EM), Assocation Rule Learning<br>
+  Change Detection: A/B Testing, CUSUM<br>
+  Link analysis: PageRank
+  </p>
   <a href="https://www.linkedin.com/in/christopher-daehyun-kim/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
