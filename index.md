@@ -20,8 +20,7 @@
 ---
 
 ### Assocation Rules as Sparsity Alleviation in Recommendation Systems
-<p align="center" width="100%">
-    <embed src="https://cdaekim.github.io/portfolio/pdfs/Kim_Christopher_proposal.pdf" type="application/pdf" />
-</p>
-
+<img src="images/report_1.png?raw=true"/><br>
+<img src="images/report_2.png?raw=true"/><br>
+<img src="images/report_3?raw=true"/><br>
 ---
