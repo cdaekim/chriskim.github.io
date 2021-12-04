@@ -2,8 +2,6 @@
 
 ---
 
-### Category Name 1 
-
 [Interactive Visualization of Team Compositions Using Assocation Rules and Network Analysis in League of Legends ](/pdfs/team139poster.pdf)
 <br>
 <img src="images/euw_graph2.png?raw=true"/><br>
