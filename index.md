@@ -9,4 +9,9 @@
 - App can be found here: [1](https://jrcairns123.github.io),[2](https://cdaekim.github.io)
 ---
 
+---
 
+Assocation Rules as Sparsity Alleviation in Recommendation Systems
+<br>
+<img src="images/euw_graph2.png?raw=true"/><br>
+---
