@@ -7,9 +7,9 @@
 <img src="images/euw_graph2.png?raw=true"/><br>
 <img src="images/conf_graph1.png?raw=true"/><br>
 
-[App for first graph](https://cdaekim.github.io)<br>
+[App for first graph](https://cdaekim.github.io/graph1)<br>
 
-[App for second graph](https://jrcairns123.github.io)<br>
+[App for second graph](https://cdaekim.github.io/graph2)<br>
 
 [Poster](/pdfs/team139poster.pdf)<br>
 
