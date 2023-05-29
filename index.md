@@ -1,6 +1,11 @@
 ## Portfolio
 
 ---
+### Audience Recommender System - Best Buy
+[Report](/pdfs/ChrisKim_AudienceRecommenderSystem_BestBuy_FinalPaper (2).pdf)<br>
+---
+
+---
 
 ### Interactive Visualization of Team Compositions Using Assocation Rules and Network Analysis in League of Legends
 <br>
@@ -17,9 +22,16 @@
 
 ---
 
+
+
+
+
+---
+### Simulating Popular Blackjack Strategies in Python
+[Report](/pdfs/Group89_Blackjack_Simulation_Report_ChrisKim.pdf)<br>
+---
+
 ---
 ### Assocation Rules as Sparsity Alleviation in Recommendation Systems
-<img src="images/proposal_1.png?raw=true"/><br>
-<img src="images/proposal_2.png?raw=true"/><br>
-<img src="images/proposal_3.png?raw=true"/><br>
+[Report](/pdfs/Kim_Christopher_project_report.pdf)<br>
 ---
