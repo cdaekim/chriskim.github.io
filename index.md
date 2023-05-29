@@ -3,6 +3,7 @@
 ---
 ### Audience Recommender System - Best Buy
 <br>
+<img src = "images/penalize_1.png?raw=true"><br>
 [Report](/pdfs/ChrisKim_AudienceRecommenderSystem_BestBuy_FinalPaper (2).pdf)<br>
 ---
 
@@ -29,10 +30,14 @@
 
 ---
 ### Simulating Popular Blackjack Strategies in Python
+<br>
+<img src = "images/blackjack.png?raw=true"><br>
 [Report](/pdfs/Group89_Blackjack_Simulation_Report_ChrisKim.pdf)<br>
 ---
 
 ---
 ### Assocation Rules as Sparsity Alleviation in Recommendation Systems
+<br>
+<img src = "images/asc_rules_img.png?raw=true"><br>
 [Report](/pdfs/Kim_Christopher_project_report.pdf)<br>
 ---
