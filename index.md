@@ -2,6 +2,7 @@
 
 ---
 ### Audience Recommender System - Best Buy
+<br>
 [Report](/pdfs/ChrisKim_AudienceRecommenderSystem_BestBuy_FinalPaper (2).pdf)<br>
 ---
 
