@@ -4,7 +4,7 @@
 ### Audience Recommender System - Best Buy
 <br>
 <img src = "images/penalize_1.png?raw=true"><br>
-[Report](/pdfs/ChrisKim_AudienceRecommenderSystem_BestBuy_FinalPaper (2).pdf)<br>
+[Report](portfolio/pdfs/ChrisKim_AudienceRecommenderSystem_BestBuy_FinalPaper (2).pdf)<br>
 ---
 
 ---
