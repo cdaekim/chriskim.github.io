@@ -12,7 +12,7 @@ In this article, I go over the assumptions of OLS that are commonly known. I wan
 ---
 ### Audience Recommender System - Best Buy
 \
-This project was delivered at the finale of the practicum at Georgia Tech partnered with Best Buy. The focus was to contextualize customers and assign them to a specific number of audiences based on consumer behavior for a marketing campaign. It was a great exercise in terms of providing appropriate analytical solutions for a real company using real, anonymized data, feature engineering, and data wrangling/munging. This practicum project also provided experience working and collaborating with senior directors, managers, and data scientists at a high level. There was a meeting each week throughout the practicum with Best Buy representations, the TA, and other students in the group to discuss project scope, requirements, and other ideas. It was a really fun experience!
+This project was delivered at the finale of the practicum at Georgia Tech partnered with Best Buy. The focus was to contextualize customers and assign them to a specific number of audiences based on consumer behavior for a marketing campaign. It was a great exercise in terms of providing appropriate analytical solutions for a real company using real, anonymized data, feature engineering, and data wrangling/munging. This practicum project also provided experience working and collaborating with senior directors, managers, and data scientists at a high level. There was a meeting each week throughout the practicum with Best Buy representatives, the TA, and other students in the group to discuss project scope, requirements, and other ideas. It was a really fun experience!
 \
 \
 <img src = "images/penalize_1.png?raw=true"><br>
