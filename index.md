@@ -12,16 +12,16 @@ In this article, I go over the assumptions of OLS that are commonly known. I wan
 ---
 ### Audience Recommender System - Best Buy
 \
-\
 This project was delivered at the finale of the practicum at Georgia Tech partnered with Best Buy. The focus was to contextualize customers and assign them to a specific number of audiences based on consumer behavior for a marketing campaign. It was a great exercise in terms of providing appropriate analytical solutions for a real company using real, anonymized data, feature engineering, and data wrangling/munging. This practicum project also provided experience working and collaborating with senior directors, managers, and data scientists at a high level. 
+\
 <img src = "images/penalize_1.png?raw=true"><br>
 [Report](/pdfs/ChrisKim_AudienceRecommenderSystem_BestBuy_FinalPaper.pdf)<br>
 
 ---
 ### Interactive Visualization of Team Compositions Using Assocation Rules and Network Analysis in League of Legends
 \
+This project was delivered during my first semester at Georgia Tech for CSE6242: Data and Visual Analytics. The focus was an end-to-end analytical solution comprising of creating an ELT/ETL pipeline of data sourced from the Riot Games API, data wrangling, coding machine learning algorithms by hand, and developing a visual tool in JavaScript to display the analytical results. I was the project manager and team leader of 5 other members. I was responsible for the vision, scope, and overall direction of the project. 
 \
-This project was delivered during my first semester at Georgia Tech for CSE6242: Data and Visual Analytics. The focus was an end-to-end analytical solution comprising of creating an ELT/ETL pipeline of data sourced from the Riot Games API, data wrangling, coding machine learning algorithms by hand, and developing a visual tool in JavaScript to display the analytical results. I was the project manager and team leader of 5 other members. I was responsible for the vision, scope, and overall direction of the project.  
 <img src="images/euw_graph2.png?raw=true"/><br>
 <img src="images/conf_graph1.png?raw=true"/><br>
 
@@ -38,6 +38,7 @@ This project was delivered during my first semester at Georgia Tech for CSE6242:
 \
 \
 This project was also delivered during my first semester at Georgia Tech for the course ISYE6740: Computational Data Analysis. The focus was to augment the SVD algorithm that won the Netflix competition when Netflix was moving away from expert-user curated recommendations and to machine learning recommendations at scale. Since SVD inherently recreates the original matrix using factorized matrices, I wanted to include a step before the factorization process by using data mining techniques to impute missing values (i.e. user ratings). 
+\
 <img src = "images/asc_rules_img.PNG?raw=true"><br>
 [Report](/pdfs/Kim_Christopher_project_report.pdf)<br>
 
