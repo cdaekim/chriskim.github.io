@@ -3,6 +3,7 @@
 ## Articles
 ---
 [An In-depth Guide to OLS Assumptions: Connecting Procedural and Theory](https://medium.com/@christopher.daehyun.kim/an-in-depth-look-into-the-assumptions-of-ols-b7808ba72469)
+In this article, I go over the assumptions of OLS that are commonly known. I wanted to provide an indepth examination on the what, where, why, and how of the assumptions with a focus on the linear algebra behind it all. I go over the procedural proofs of the assumptions, and how the assumptions all interconnect. 
 ---
 ## Projects 
 ---
