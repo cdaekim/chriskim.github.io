@@ -1,5 +1,10 @@
-## Portfolio
-
+# Portfolio
+---
+## Articles
+---
+[An In-depth Guide to OLS Assumptions: Connecting Procedural and Theory](https://medium.com/@christopher.daehyun.kim/an-in-depth-look-into-the-assumptions-of-ols-b7808ba72469)
+---
+## Projects 
 ---
 ### Audience Recommender System - Best Buy
 <br>
